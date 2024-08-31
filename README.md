@@ -1,6 +1,5 @@
 <div style="background: linear-gradient(135deg, #f9f9f9, #f0f0f0); padding: 20px; border-radius: 10px; box-shadow: 0px 10px 20px rgba(0,0,0,0.1); max-width: 700px; margin: auto;">
   <h2 style="margin-top: 0; color: #333; font-size: 28px; text-align: center; font-weight: bold;">Hi there, I'm Angge! 👋</h2> <p align="left">
-  <img src="https://github.com/user-attachments/assets/39040707-cecd-447b-b577-041e568b5f35" alt="Profile Image" width="100" style="border-radius: 50%; border: 2px solid #000; box-shadow: 0px 4px 8px rgba(0,0,0,0.3); display: inline-block; vertical-align: middle;" />
 </p>
   <p style="font-size: 16px; line-height: 1.6; color: #555; text-align: center;">
     I'm a passionate <strong>Graphic Designer</strong> with a flair for creativity and a love for bringing ideas to life through design. Whether it's digital art, branding, or UI/UX design, I thrive on creating visually stunning and meaningful content.
