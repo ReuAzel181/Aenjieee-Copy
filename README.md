@@ -1,6 +1,7 @@
 <div style="background: linear-gradient(135deg, #f9f9f9, #f0f0f0); padding: 20px; border-radius: 10px; box-shadow: 0px 10px 20px rgba(0,0,0,0.1); max-width: 700px; margin: auto;">
-  <h2 style="margin-top: 0; color: #333; font-size: 28px; text-align: center; font-weight: bold;">Hi there, I'm Angge! 👋</h2> <p align="left">
-</p>
+  <h2 style="margin-top: 0; color: #333; font-size: 28px; text-align: center; font-weight: bold;">
+    Hi there, I'm Angge! 👋
+  </h2>
   <p style="font-size: 16px; line-height: 1.6; color: #555; text-align: center;">
     I'm a passionate <strong>Graphic Designer</strong> with a flair for creativity and a love for bringing ideas to life through design. Whether it's digital art, branding, or UI/UX design, I thrive on creating visually stunning and meaningful content.
     <br><br>
@@ -8,11 +9,18 @@
   </p>
 </div>
 
+## 💼 Experience
+<div style="background: linear-gradient(135deg, #fff, #f9f9f9); padding: 20px; border-radius: 10px; box-shadow: 0px 10px 20px rgba(0,0,0,0.1); max-width: 700px; margin: auto; margin-top: 20px;">
+  <p style="font-size: 16px; line-height: 1.6; color: #555;">
+    ✅ <strong>Quality Assurance (QA)</strong>:<br>
+    I have expertise in testing and quality assurance to ensure that software products meet the highest standards of quality and performance.
+  </p>
+</div>
+
 ## 💻 What I Do
-
-<div style="padding: 20px; border-radius: 15px; background: linear-gradient(135deg, #ffffff, #e0e0e0); box-shadow: 0px 10px 20px rgba(0,0,0,0.3); max-width: 700px; margin: auto; overflow: hidden;">
-  <div style="background: linear-gradient(135deg, #3498db, #2ecc71); color: #fff; padding: 15px; border-radius: 15px 15px 0 0; box-shadow: inset 0px 4px 8px rgba(0,0,0,0.2);">
-
+<div style="padding: 20px; border-radius: 15px; background: linear-gradient(135deg, #ffffff, #e0e0e0); box-shadow: 0px 10px 20px rgba(0,0,0,0.3); max-width: 700px; margin: auto; margin-top: 20px; overflow: hidden;">
+  <div style="background: linear-gradient(135deg, #3498db, #2ecc71); color: #fff; padding: 15px; border-radius: 15px 15px 0 0; box-shadow: inset 0px 4px 8px rgba(0,0,0,0.2); text-align: center;">
+    <h3 style="margin: 0;">What I Do</h3>
   </div>
   <div style="padding: 20px; background: #fafafa;">
     <div style="display: flex; align-items: center; padding: 15px; border-bottom: 1px solid #e0e0e0; position: relative;">
@@ -46,11 +54,9 @@
   </div>
 </div>
 
-
-
-
 ## 🛠️ Tech Stack
 Here are some of the technologies I work with:
+
 <p align="center">
   <a href="https://www.figma.com/">
     <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" />
@@ -76,8 +82,10 @@ Here are some of the technologies I work with:
   <a href="https://www.php.net/">
     <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" />
   </a>
+  <a href="https://www.arduino.cc/">
+    <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino" />
+  </a>
 </p>
-
 
 ## 🌱 Currently Learning
 - Advanced UI/UX Design Techniques
@@ -85,9 +93,17 @@ Here are some of the technologies I work with:
 - Web Development (React.js, Next.js)
 
 ## 📫 Get in Touch
-[![Gmail](https://img.icons8.com/color/50/000000/gmail.png)](mailto:angelicabanastao@gmail.com)
-[![Facebook](https://img.icons8.com/color/50/000000/facebook.png)](https://www.facebook.com/aenjie.2002?mibextid=ZbWKwL)
-[![Instagram](https://img.icons8.com/color/50/000000/instagram-new.png)](https://www.instagram.com/aenjiie.bnsto)
+<p align="center">
+  <a href="mailto:angelicabanastao@gmail.com">
+    <img src="https://img.icons8.com/color/50/000000/gmail.png" alt="Gmail" />
+  </a>
+  <a href="https://www.facebook.com/aenjie.2002?mibextid=ZbWKwL">
+    <img src="https://img.icons8.com/color/50/000000/facebook.png" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/aenjiie.bnsto">
+    <img src="https://img.icons8.com/color/50/000000/instagram-new.png" alt="Instagram" />
+  </a>
+</p>
 
 
 Feel free to explore my repositories and connect with me if you have any questions or would like to collaborate on a project!
