@@ -106,8 +106,6 @@ Here are some of the technologies I work with:
 </p>
 
 
-Feel free to explore my repositories and connect with me if you have any questions or would like to collaborate on a project!
-
 Thanks for visiting my profile! 😄
 
 
