@@ -101,4 +101,6 @@ Here are some of the technologies I work with:
     <img src="https://img.icons8.com/color/50/000000/facebook.png" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/aenjiie.bnsto">
-    <img src="https://img.icons8.com/color
+    <img src="https://img.icons8.com/color/50/000000/instagram-new.png" alt="Instagram" />
+  </a>
+</p>
