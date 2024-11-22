@@ -108,10 +108,11 @@
       <!-- GitHub Stats -->
       <a href="http://www.github.com/Aenjieee">
         <img src="https://github-readme-stats.vercel.app/api?username=Aenjieee&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Aenjieee's GitHub stats" />
-      </a>
+        </a>
       <!-- GitHub Streak -->
       <a href="http://www.github.com/Aenjieee">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aenjieee&theme=dracula&hide_border=true" alt="Aenjieee's GitHub streak" />
+        </a>
       <!-- GitHub Languages -->
       <a href="http://www.github.com/Aenjieee">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aenjieee&layout=compact&langs_count=16&theme=dracula" alt="Aenjieee's GitHub top languages" />
