@@ -101,10 +101,10 @@
     </p>
   </div>
 
+ <div class="container fadeIn" style="margin-top: 20px;">
+  <!-- GitHub Stats with ReadMe Cards -->
   <div class="container fadeIn" style="margin-top: 20px;">
- <!-- GitHub Stats with ReadMe Cards -->
-  <div class="container fadeIn" style="margin-top: 20px;">
-    <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+    <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px;">
       <!-- GitHub Stats -->
       <a href="http://www.github.com/Aenjieee">
         <img src="https://github-readme-stats.vercel.app/api?username=Aenjieee&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Aenjieee's GitHub stats" />
@@ -119,6 +119,8 @@
       </a>
     </div>
   </div>
+</div>
+
 
 </body>
 </html>
