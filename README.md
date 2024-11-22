@@ -3,7 +3,6 @@
     Hi there, I'm Angge! 👋
   </h2>
   <p style="font-size: 16px; line-height: 1.6; color: #555; text-align: center;">
-    add the total of contribution in github and profile views and knowing who person who stalk me<br><br>
     I'm a passionate <strong>Graphic Designer</strong> with a flair for creativity and a love for bringing ideas to life through design. Whether it's digital art, branding, or UI/UX design, I thrive on creating visually stunning and meaningful content.
     <br><br>
     I'm also currently pursuing a <strong>Computer Science course at SLTCFI</strong>, which complements my design skills and enhances my ability to create innovative solutions.
