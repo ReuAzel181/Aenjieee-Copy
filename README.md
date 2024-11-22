@@ -104,21 +104,19 @@
  <div class="container fadeIn" style="margin-top: 10px;">
   <!-- GitHub Stats with ReadMe Cards -->
   <div class="container fadeIn" style="margin-top: 10px;">
-    <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px;">
+    <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
       <!-- GitHub Stats -->
       <a href="http://www.github.com/Aenjieee">
         <img src="https://github-readme-stats.vercel.app/api?username=Aenjieee&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Aenjieee's GitHub stats" />
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aenjieee&layout=compact&langs_count=16&theme=dracula" alt="Aenjieee's GitHub top languages" />
-        </a>
-      <!-- GitHub Languages -->
-<!--       <a href="http://www.github.com/Aenjieee">
-        
-        </a> -->
-      <!-- GitHub Streak -->
+      </a>
       <a href="http://www.github.com/Aenjieee">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aenjieee&theme=dracula&hide_border=true" alt="Aenjieee's GitHub streak" />
-        </a>
+      </a>
+      <a href="http://www.github.com/Aenjieee">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aenjieee&layout=compact&langs_count=16&theme=dracula" alt="Aenjieee's GitHub top languages" />
+      </a>
 
+      
     </div>
   </div>
 </div>
