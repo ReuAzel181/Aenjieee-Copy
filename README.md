@@ -3,6 +3,7 @@
     Hi there, I'm Angge! 👋
   </h2>
   <p style="font-size: 16px; line-height: 1.6; color: #555; text-align: center;">
+    add the total of contribution in github and profile views and knowing who person who stalk me<br><br>
     I'm a passionate <strong>Graphic Designer</strong> with a flair for creativity and a love for bringing ideas to life through design. Whether it's digital art, branding, or UI/UX design, I thrive on creating visually stunning and meaningful content.
     <br><br>
     I'm also currently pursuing a <strong>Computer Science course at SLTCFI</strong>, which complements my design skills and enhances my ability to create innovative solutions.
@@ -20,7 +21,6 @@
 ## 💻 What I Do
 <div style="padding: 20px; border-radius: 15px; background: linear-gradient(135deg, #ffffff, #e0e0e0); box-shadow: 0px 10px 20px rgba(0,0,0,0.3); max-width: 700px; margin: auto; margin-top: 20px; overflow: hidden;">
   <div style="background: linear-gradient(135deg, #3498db, #2ecc71); color: #fff; padding: 15px; border-radius: 15px 15px 0 0; box-shadow: inset 0px 4px 8px rgba(0,0,0,0.2); text-align: center;">
-    <h3 style="margin: 0;">What I Do</h3>
   </div>
   <div style="padding: 20px; background: #fafafa;">
     <div style="display: flex; align-items: center; padding: 15px; border-bottom: 1px solid #e0e0e0; position: relative;">
@@ -101,16 +101,4 @@ Here are some of the technologies I work with:
     <img src="https://img.icons8.com/color/50/000000/facebook.png" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/aenjiie.bnsto">
-    <img src="https://img.icons8.com/color/50/000000/instagram-new.png" alt="Instagram" />
-  </a>
-</p>
-
-
-Thanks for visiting my profile! 😄
-
-
-
-
-
-
-
+    <img src="https://img.icons8.com/color
